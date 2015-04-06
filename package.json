@@ -24,7 +24,7 @@
     "underscore": "^1.7.0"
   },
   "engines": {
-    "node": "0.10.x",
+    "node": "0.12.x",
     "npm": "2.7.5"
   },
   "scripts": {
